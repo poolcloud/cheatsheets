@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash                     # Following commands work on most of the distros but exceptions are still there.
 ##############################################################################
 # SHORTCUTS and HISTORY
 ##############################################################################
